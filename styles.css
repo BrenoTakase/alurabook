@@ -17,7 +17,6 @@
     --cinza: #464646;
     --cinza-claro: #858585;
 }
-
 body {
     background-color: var(--cor-de-fundo);
     font-family: var(--fonte-principal);
